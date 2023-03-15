@@ -1,0 +1,19 @@
+{
+    "publicacion":[
+        {
+            "id": 1,
+            "fecha": "'12/02/2023'",
+            "titulo": "Vue 3 Composition API",
+            "contenido": "Composition API es una nueva manera de escribir los componentes, pretende aumentar la flexibilidad con la que se realizan y un desarrollo más conciso.",
+            "id_usuario": 1
+        }
+    ],
+    "usuario":[
+        {
+            "id": 1,
+            "nombre": "Edwin Aguilar V.",
+            "username": "edwin",
+            "password": "12345x"
+        }
+    ]
+}
